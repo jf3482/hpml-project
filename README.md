@@ -17,4 +17,4 @@ We studied two main pruning algorithms, [PyTorch's pruning](https://pytorch.org/
 ## Steps to reproduce experiment- 
 1) Follow tutorial in (revised)torchvision_finetuning_instance_segmentation.ipynb to perform transfer learning from Faster RCNN to Mask RCNN. Then follow up with running Pytorch's pruning on the network.
 
-2) Perform pruning with Torch-Pruning in Torch-pruning_noRetrain.ipynb and Torch-pruning_retrain.ipynb. Results are logged in wandb. 
+2) Perform pruning with Torch-Pruning in Torch-pruning_noRetrain.ipynb and Torch-pruning_retrain.ipynb. Results are logged in wandb (https://wandb.ai/hpml-f23-proj/hpml-project-torchpruning_retrain?workspace=user-jf3482 and https://wandb.ai/hpml-f23-proj/hpml-project-torchpruning?workspace=user-jf3482). 
